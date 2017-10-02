@@ -1,2 +1,2 @@
 # fwget
-fork several wget thread but keep a maximum number of backgrund processes
+fork several wget thread as backgrund processes
